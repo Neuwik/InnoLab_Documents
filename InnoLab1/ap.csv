@@ -1,0 +1,24 @@
+﻿Title;Description;Type
+Trojaner;Design Enemy;
+Spyware;Design Enemy;
+Virus;Design Enemy;
+Ransomware;Design Enemy;
+Zeus Trojaner;Design Bosses;
+ILOVEYOU Virus;Design Bosses;
+Advanced Keylogger (Spyware);Design Bosses;
+WannaCry (Ransomware);Design Bosses;
+Räume planen;Design;
+Ebenen planen (was gibt es in einer Ebene);Design;
+Skilltree planen;Design;
+Items planen;Design;
+Tutorial planen;Design;
+Player Movement testen;Testen;
+Gegner testen;Testen;
+Bosse testen;Testen;
+Räume testen;Testen;
+Fähigkeiten testen;Testen;
+Player balancing;Umsetzen in Unity;
+Gegner balancing;Umsetzen in Unity;
+Item balancing;Umsetzen in Unity;
+Boss balancing;Umsetzen in Unity;
+Tutorial in Unity;Umsetzen in Unity;

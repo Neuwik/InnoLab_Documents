@@ -1,0 +1,31 @@
+ARBEITSPACKETE ERSTELLEN (MEETING)
+
+Kamera Winkel (69° ?)
+Theme of Art Design
+Main Character Art
+Ground texture
+Mood board
+
+Leeres LVL
+Enemy Spawn
+Life bar
+Projectile Spawn
+Take Damage (Character)
+Change scene (with main char)
+
+Game design
+
+Enemies
+	behavior
+	type
+	
+Highconcept feritg
+Loot / Money
+XP
+Risk vs Reward
+
+
+
+Sprint 4:
+Skilltree
+Color coding/pattern

@@ -1,0 +1,25 @@
+Ideenfindung (Thenen der Informatik, wenn auch nur im Hintergrund)
+Grobe Idee
+
+Brainstorm Workshop (4h) ca 1.Nov
+
+Junior Programming path (Unity Learn)
+	bis min Userinterface (Proj. 5)
+	max 2 Sprints (Großteil erster)
+	Doppelte Geschwindigkeit xD (bzw nur Punkte ohne Video)
+
+Immer Dokumente hochladen
+Sprints alle in ein excel (einzelne Mappen)
+Sprint Tasks immer Beschreibung oder Ticketnummer
+
+Semester Ziel (Wie weit kommen)
+	Backlog (ca. 70%)
+	Meetings einplanen
+
+Meeting ergebniss -> Userstorrys
+
+Backlog erstellen (bis 17.10. Abgabe !!!)
+FH-Git verwenden (auch Kanban Board)
+	Immer brav Branchen
+	Unity -> viele merch conflicts
+	.gitignore !!!
