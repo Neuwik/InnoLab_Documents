@@ -1,0 +1,19 @@
+Game design Dokument? (Epics + Mood board + sketches?) Meeting Mittwoch 
+
+Demo Graphics (Besser White Boxes)		Johann
+
+Main Character Update				Vincent
+
+Basic level setup (empty tiles)			Poppinger, Tobi
+
+Character move one Tile				Poppinger
+
+Character pick up trash (gray box object)	Dominik
+
+Drag and drop UI Element			Vincent
+
+Copy UI element/prefab				Dominik	
+
+Call character Funktion from UI (script)	Johann + Dominik
+
+Sketch of main view/UI.				Tobi + Vincent
