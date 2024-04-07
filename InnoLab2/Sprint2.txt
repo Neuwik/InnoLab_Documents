@@ -1,0 +1,24 @@
+12h	V+T	Als Spieler möchte ich in der Lage sein UML-Elemente mit Pfeilen verbinden könne, um den Ablauf klar erkennen zu können.
+ 2h	V	Als Spieler möchte ich in der Lage sein UML-Elemente mittels Drag and Drop verschieben können, um die Ansicht frei zu gestalten.
+ 2h	T	Als Spieler möchte ich in der Lage sein UML-Elemente über ein PopUp Fenster zu erstellen.
+ 4h	V	Als Spieler möchte ich in der Lage sein UML-Elemente über Drag and Drop einer Vorlage zu erstellen.
+ 2h	F	Als Spieler möchte ich ein UML-Element zur Auswahl haben welches das Bewegen des Roboters ermöglicht.
+
+12h	D+F	Als Spieler möchte ich das ein Roboter anhand des von mir erstellten Diagramms agiert.
+ 2h	F	Als Spieler möchte ich in der Lage sein das UML-Ablaufdiagramm zu starten.
+ 4h	D	Als Spieler möchte ich in der Lage sein das Level zurück zu setzten, um mein UML-Ablaufdiagramm anpassen und es noch einmal versuchen zu können.
+ 2h	D	Als Spieler möchte ich erkennen können welches UML-Element gerade ausgeführt wird.
+
+ 2h 	F	Als Spieler möchte ich das ein Roboter automatisch anhält bevor er gegen eine Wand läuft.
+ 
+ 2h	T	Als Spieler möchte ich Schadensquellen konfrontiert werden, um schwierigere Rätsel zu ermöglichen.
+ 2h	T	Als Spieler möchte ich das Wasser eine große Gefahr für die Roboter darstellt.
+
+ 2h	J	Als Spieler möchte ich das ein Roboter eine begrenze Anzahl an Leben hat.
+ 4h	J	Als Spieler möchte ich in der Lage sein die Leben eines Roboters jederzeit einzusehen.
+
+ 2h	J	Als Spieler möchte ich eine Anzeige bekommen, wenn ich ein Level nicht erfolgreich absolviert habe.
+
+ 2h	J	Als Spieler möchte ich eine Anzeige bekommen, wenn ich ein Level erfolgreich absolviert habe.
+
+ 2h	J	Als Spieler möchte ich in der Lage sein die Anzahl des gesammtenen und noch verbleibenden Mülls einzusehen.
