@@ -1,0 +1,3 @@
+Roboter Tick Rate (Couroutine, IEnumerator)
+Roboter UML Status (running, stopping, crashed, done)
+Roboter UML Debug Log (status, sender/reason, text)
