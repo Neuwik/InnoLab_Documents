@@ -1,3 +1,29 @@
-Roboter Tick Rate (Couroutine, IEnumerator)
-Roboter UML Status (running, stopping, crashed, done)
-Roboter UML Debug Log (status, sender/reason, text)
+Übrig von letzem Sprint:
+
+1h	F	Als Spieler möchte ich ein UML-Element zur Auswahl haben welches das Bewegen des Roboters ermöglicht.
+1h	F+D	Als Spieler möchte ich das ein Roboter anhand des von mir erstellten Diagramms agiert.
+2h	D	Als Spieler möchte ich in der Lage sein das Level zurück zu setzten, um mein UML-Ablaufdiagramm anpassen und es noch einmal versuchen zu können.
+1h	D	Als Spieler möchte ich erkennen können welches UML-Element gerade ausgeführt wird.
+
+2h	V+T	Als Spieler möchte ich in der Lage sein UML-Elemente mit Pfeilen verbinden könne, um den Ablauf klar erkennen zu können.
+1h	T	Als Spieler möchte ich in der Lage sein UML-Elemente über ein PopUp Fenster zu erstellen.
+2h	V	Als Spieler möchte ich in der Lage sein UML-Elemente über Drag and Drop einer Vorlage zu erstellen.
+
+1h	J	Als Spieler möchte ich eine Anzeige bekommen, wenn ich ein Level nicht erfolgreich absolviert habe.
+1h	J	Als Spieler möchte ich eine Anzeige bekommen, wenn ich ein Level erfolgreich absolviert habe.
+
+--------------
+Neue Aufgaben:
+
+2h	D	Roboter Tick Rate (Couroutine, IEnumerator)
+2h	D	Roboter UML Status (running, stopping, crashed, done)
+4h	F	Roboter UML Debug Log (status, sender/reason, text)
+4h	V	Unlock New UML Blocks dynamically
+2h	T+J	3 Levels designen
+2h	D	Scan next Field UML Block
+2h	F	Load Next Level
+2h	J	Start Screen
+2h	T+J	Rating for successful level
+2h	T	Moving obstacles
+2h	V	Pick up trash UML Block
+
