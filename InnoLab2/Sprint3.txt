@@ -1,7 +1,7 @@
 Übrig von letzem Sprint:
 
 1h	F	Als Spieler möchte ich ein UML-Element zur Auswahl haben welches das Bewegen des Roboters ermöglicht.
-1h	F+D	Als Spieler möchte ich das ein Roboter anhand des von mir erstellten Diagramms agiert.
+1h	F+D	Als Spieler möchte ich, dass ein Roboter anhand des von mir erstellten Diagramms agiert.
 2h	D	Als Spieler möchte ich in der Lage sein das Level zurück zu setzten, um mein UML-Ablaufdiagramm anpassen und es noch einmal versuchen zu können.
 1h	D	Als Spieler möchte ich erkennen können welches UML-Element gerade ausgeführt wird.
 
@@ -15,15 +15,14 @@
 --------------
 Neue Aufgaben:
 
-2h	D	Roboter Tick Rate (Couroutine, IEnumerator)
-2h	D	Roboter UML Status (running, stopping, crashed, done)
-4h	F	Roboter UML Debug Log (status, sender/reason, text)
-4h	V	Unlock New UML Blocks dynamically
-2h	T+J	3 Levels designen
-2h	D	Scan next Field UML Block
-2h	F	Load Next Level
-2h	J	Start Screen
-2h	T+J	Rating for successful level
-2h	T	Moving obstacles
-2h	V	Pick up trash UML Block
-
+2h	D	Als Spieler möchte ich, dass Roboter die UML-Elemente mit einer konstanten Tick-Rate abarbeiten.
+2h	D	Als Spieler möchte ich den Status eine Roboters und dessen UML-Ablaufes einsehen können.
+4h	F	Als Spieler möchte ich in der Lage sein, zu erkennen, warum ein UML-Ablauf gescheitert ist.
+4h	V	Als Spieler möchte ich im Laufe des Spiel neue UML-Elemente freischalten.
+2*2h	T+J	Als Spieler möchte ich mindestens 3 unterschiedliche Level spielen können.
+2h	D	Als Spieler möchte ich, dass ein Roboter andhand eines UML-Elementes erkennen kann, was sich auf dem nächsten Feld befindet.
+2h	F	Als Spieler möchte ich das Level wechseln können.
+2h	J	Als Spieler möchte ich einen Startbildschirm zur Levelauswahl haben.
+2*2h	T+J	Als Spieler möchte ich, dass meine Leistung anhand eines Ratings dargestellt wird.
+2h	T	Als Spieler möchte ich, dass Level bewegliche Hindernisse enthalten.
+2h	V	Als Spieler möchte ich ein UML-Elemente zur Auswahl haben, welches einen Roboter Müll aufsammeln lässt.
