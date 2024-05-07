@@ -1,0 +1,48 @@
+Übrig von letzem Sprint:
+
+4h	V	Als Spieler möchte ich im Laufe des Spiel neue UML-Elemente freischalten.
+2h	J	Als Spieler möchte ich einen Startbildschirm zur Levelauswahl haben.
+2h	J+T	Als Spieler möchte ich mindestens 3 unterschiedliche Level spielen können.
+
+
+--------------
+Neue Aufgaben:
+
+2h	F	Musik
+2+2h	F+T	Soundeffects (Player/Movement/Destroy, Damage/Burn/Water, Trash pickup)
+
+2h	D	Batterie Implement
+2h	J	Batterie UI
+
+4h	J	Save Progress on game closing (which level is done)
+
+4h	V	Pfeile bei Conditions
+
+4h	F	UML UI Scaling / Scroll bars
+
+4h	D	for loop (condition mit counter)
+
+2h	D	Field that pushes Player in direction
+
+4h	T	Level for while loop usage
+
+
+-------------
+Laut Dokumentation schon fertig, aber naja.....
+
+MERGES (Flo Console + Scene switcher)
+
+Domnik	Als Spieler möchte ich, dass ein Roboter andhand eines UML-Elementes erkennen kann, was sich auf dem nächsten Feld befindet.
+
+Florian	Als Spieler möchte ich das Level wechseln können.
+
+Vincent	Als Spieler möchte ich in der Lage sein UML-Elemente mit Pfeilen verbinden könne, um den Ablauf klar erkennen zu können.
+
+Johann	Als Spieler möchte ich in der Lage sein die Anzahl des gesammtenen und noch verbleibenden Mülls einzusehen.
+	Als Spieler möchte ich eine Anzeige bekommen, wenn ich ein Level nicht erfolgreich absolviert habe.
+	Als Spieler möchte ich eine Anzeige bekommen, wenn ich ein Level erfolgreich absolviert habe.
+
+J + T	Als Spieler möchte ich mindestens 3 unterschiedliche Level spielen können.
+	Als Spieler möchte ich, dass meine Leistung anhand eines Ratings dargestellt wird.
+
+
