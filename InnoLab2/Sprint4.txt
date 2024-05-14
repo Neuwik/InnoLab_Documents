@@ -16,7 +16,7 @@ Neue Aufgaben:
 
 4h	J	Als Spieler möchte ich das mein Fortschritt auch nach dem schließen des Spieles gespeichert bleibt. (which level is done)
 
-4h	V	Als Spieler möchte ich Bindungungs-Blöcke mit 2 Blöcken verbinden können, um den UML-Ablauf für sowohl erfüllte als auch nicht erfüllte Bedingungen darzustellen.
+4h	V	Als Spieler möchte ich Bedingungs-Blöcke mit 2 Blöcken verbinden können, um den UML-Ablauf für sowohl erfüllte als auch nicht erfüllte Bedingungen darzustellen.
 
 4h	F	Als Spieler möchte ich das Spiel auf unterschiedlichen Bildschirmgrößen spielen können.
 

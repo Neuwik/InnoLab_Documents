@@ -1,0 +1,24 @@
+Übrig von letzem Sprint:
+
+4h	J	Als Spieler möchte ich das mein Fortschritt auch nach dem schließen des Spieles gespeichert bleibt. (which level is done)
+4h	F	Als Spieler möchte ich das Spiel auf unterschiedlichen Bildschirmgrößen spielen können.
+
+--------------
+Neue Aufgaben:
+
+2h	J	Sprites und Meshes in Unity ersetzen
+2h	J	Level Unlock
+2h	J	Arrow Sprite
+
+2h	F	VFX Movement
+2h	F	VFX Trash pickup
+2h	F	VFX Fire
+
+4h	T	Level Enemy Intro
+
+2h	D	Global Tickrate
+2h	D	Battery collectable
+
+4h	V	Drop down selection for UML Blocks (alter Tobi task)
+
+4+4+4h	V+D+T	Code + Unity Cleanup
