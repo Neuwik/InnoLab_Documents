@@ -8,23 +8,23 @@
 --------------
 Neue Aufgaben:
 
-2h	F	Musik
-2+2h	F+T	Soundeffects (Player/Movement/Destroy, Damage/Burn/Water, Trash pickup)
+2h	F	Als Spieler möchte ich passende Hintergrundmusik im Spiel hören.
+2+2h	F+T	Als Spieler möchte ich Soundeffekte hören, um noch besser erkennen zu können was im Spiel. (Player/Movement/Destroy, Damage/Burn/Water, Trash pickup)
 
-2h	D	Batterie Implement
-2h	J	Batterie UI
+2h	D	Als Spieler möchte ich, dass Roboter eine Batterie haben die die Anzahl der Aktionen des Roboters beschränkt.
+2h	J	Als Spieler möchte ich jeder Zeit in der Lage sein die Batterie meiner Roboter einzusehen und angezeigt bekommen wann ein Roboter wie viel Energie verliert.
 
-4h	J	Save Progress on game closing (which level is done)
+4h	J	Als Spieler möchte ich das mein Fortschritt auch nach dem schließen des Spieles gespeichert bleibt. (which level is done)
 
-4h	V	Pfeile bei Conditions
+4h	V	Als Spieler möchte ich Bindungungs-Blöcke mit 2 Blöcken verbinden können, um den UML-Ablauf für sowohl erfüllte als auch nicht erfüllte Bedingungen darzustellen.
 
-4h	F	UML UI Scaling / Scroll bars
+4h	F	Als Spieler möchte ich das Spiel auf unterschiedlichen Bildschirmgrößen spielen können.
 
-4h	D	for loop (condition mit counter)
+4h	D	Als Spieler möchte ich definieren können, dass Teile des UML-Ablaufdiagrammes eine bestimmte Anzahl wiederholt werden.
 
-2h	D	Field that pushes Player in direction
+2h	D	Als Spieler möchte ich, dass es Felder im Spiel gibt die Roboter in eine bestimmte Richtung verschieben.
 
-4h	T	Level for while loop usage
+4h	T	Als Spieler möchte ein Level zur Auswahl haben das mein Wissen über Bedingungen und Schleifen auf die Probe stellt.
 
 
 -------------
