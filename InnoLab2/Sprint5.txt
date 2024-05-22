@@ -7,18 +7,18 @@
 Neue Aufgaben:
 
 2h	J	Sprites und Meshes in Unity ersetzen
-2h	J	Level Unlock
 2h	J	Arrow Sprite
+2h	J	Als Spieler möchte ich neue Level freizuschalten, wenn ich eines erfolgreicht absolviert habe.
 
-2h	F	VFX Movement
-2h	F	VFX Trash pickup
-2h	F	VFX Fire
+2h	F	Als Spieler möchte ich VFX sehen, wenn sich ein Roboter bewegt.
+2h	F	Als Spieler möchte ich VFX sehen, wenn ein Roboter Müll sammelt.
+2h	F	Als Spieler möchte ich VFX sehen, wenn ein Roboter in ein Feuer läuft.
 
-4h	T	Level Enemy Intro
+4h	T	Als Spieler möchte ich ein Level zur auswahl haben in dem sich bewegenede Gegner vorkommen.
 
-2h	D	Global Tickrate
-2h	D	Battery collectable
-
-4h	V	Drop down selection for UML Blocks (alter Tobi task)
+2h	D	Als Spieler möchte ich, dass alle Bewegungen und Aktionen im Spiel einem genauen Ablauf folgen. (Global Tickrate)
+2h	D	Als Spieler möchte ich in der Lage sein die Batterie eines Roboters wieder aufladen zu können.
 
 4+4+4h	V+D+T	Code + Unity Cleanup
+
+4h	V	Als Spieler möchte ich in der Lage sein die Funktion eines UML-Elementes mit einem Drop down zu ändern.
