@@ -1,0 +1,10 @@
+Assets (email mit möglichen) (synty assets) (ich.io)
+Finale Abgabe (wie letztes semester)
+Tasks (nix großes mehr anfangen, wenn dann nur Grundgerüst)
+
+
+Anchor On Start workaround
+Reset mit observer pattern (publisher subscriber)
+-) Reset subscriber script
+
+Save Manager line 52 .jasn
