@@ -1,0 +1,10 @@
+8h	D	Test 2 Roboters
+8h	V	Test Custom UML-Blocks (create a new block by merging other blocks)
+
+4h	F	Cleanup
+4h	F	Test Exporting Project as exe and BrowserGame
+
+2+2h	J+T	Cleanup/Update Design Document
+2+2h	J+T	Cleanup/Update GitHub Documentation
+4+4h	J+T	Create PowerPoint and Plan for Video Presentation
+
