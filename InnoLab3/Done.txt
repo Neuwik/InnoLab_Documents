@@ -1,0 +1,12 @@
+Als Spieler möchte ich in der Lage sein UML-Elemente mit Pfeilen verbinden könne, um den Ablauf klar erkennen zu können.
+Als Spieler möchte ich das Level wechseln können.
+Als Spieler möchte ich, dass Level bewegliche Hindernisse enthalten.
+Als Spieler möchte ich im Laufe des Spiel neue UML-Elemente freischalten.
+Als Spieler möchte ich Bedingungs-Blöcke mit 2 Blöcken verbinden können, um den UML-Ablauf für sowohl erfüllte als auch nicht erfüllte Bedingungen darzustellen.
+Als Spieler möchte ich, dass es Felder im Spiel gibt die Roboter in eine bestimmte Richtung verschieben.
+Als Spieler möchte ein Level zur Auswahl haben das mein Wissen über Bedingungen und Schleifen auf die Probe stellt.
+Als Spieler möchte ich ein Level zur auswahl haben in dem sich bewegenede Gegner vorkommen.
+Als Spieler möchte ich in der Lage sein die Batterie eines Roboters wieder aufladen zu können.
+Als Spieler möchte ich in der Lage sein die Funktion eines UML-Elementes mit einem Drop down zu ändern.
+Als Spieler möchte ich einen Titelbildschirm sehen, wenn ich das Spiel starte.
+Als Spieler möchte ich in der Lage sein, UML-Bäume zu speichern, damit ich meinen Fortschritt sichern kann.
