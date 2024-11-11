@@ -1,6 +1,5 @@
 Als Spieler möchte ich in der Lage sein UML-Elemente mit Pfeilen verbinden könne, um den Ablauf klar erkennen zu können.
-Als Spieler möchte ich das Level wechseln können.
-Als Spieler möchte ich, dass Level bewegliche Hindernisse enthalten.
+Als Spieler möchte ich das Level wechseln können. (ESC)
 Als Spieler möchte ich im Laufe des Spiel neue UML-Elemente freischalten.
 Als Spieler möchte ich Bedingungs-Blöcke mit 2 Blöcken verbinden können, um den UML-Ablauf für sowohl erfüllte als auch nicht erfüllte Bedingungen darzustellen.
 Als Spieler möchte ich, dass es Felder im Spiel gibt die Roboter in eine bestimmte Richtung verschieben.
