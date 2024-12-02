@@ -1,0 +1,30 @@
+Sprint 5:
+20	5*4	Als Entwickler möchte ich Playtester suchen und ihr Verhalten dokumentieren, um Aspekte zu erfassen, die den Testern möglicherweise nicht auffallen.
+12 	3*4	Als Entwickler möchte ich die Fragebögen auswerten, um das Feedback der Playtester zu verstehen und Verbesserungen am Spiel vorzunehmen.
+8	8*1	?
+
+
+
+?8 Als Spieler möchte ich in der Lage sein, UML-Ablaufdiagramm zu kopieren.
+
+8 Als Spieler möchte ich in der Lage sein, in das UML-Diagramm hinein- und herauszuzoomen und eine Scrollfunktion nutzen können, um eine bessere Übersicht und Navigation zu ermöglichen.
+
+?2 Als Spieler möchte ich die Credits einsehen können, um mehr über die Entwickler zu erfahren.
+
+
+
+2 Als Spieler möchte ich einen Sound hören, wenn ich ein Level gewinne.
+2 Als Spieler möchte ich einen Sound hören, wenn ich ein Level verliere.
+2 Als Spieler möchte ich einen Sound hören, wenn der Roboter stirbt.
+?2 Als Spieler möchte ich Sounds im Menü hören, wenn ich herumnavigiere.
+2 Als Spieler möchte ich einen Sound hören, wenn der Roboter eine Batterie aufnimmt.
+?2 Als Spieler möchte ich spezifische Sounds für die UML-Blöcke hören, wenn ich sie verwende.
+2 Als Spieler möchte ich einen Sound hören, wenn ein Level geladen wurde, um zu wissen, dass das Spiel bereit ist.
++ Loading screen?
+2 Als Spieler möchte ich einen Sound hören, wenn ein UML-Ablaufdiagramm gestartet wird.
+2 Als Spieler möchte ich Titelmusik hören, um den Einstieg in das Spiel angenehmer zu machen.
+
+2 Als Spieler möchte ich Feuer-Effekte sehen, um das Spiel visuell ansprechender zu erleben.
++ Wasser Animation
+
+Bug mit tree laden (buttons wurden bei Tobi doppelt erstellt)
