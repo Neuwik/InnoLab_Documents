@@ -1,0 +1,58 @@
+{
+    "ID": 5250385493684030538,
+    "TreeName": "T2",
+    "Start": {
+        "ID": -62358,
+        "typeID": 5,
+        "name": "T2 Start",
+        "value": 0,
+        "nextTID": -63268,
+        "nextFID": 0,
+        "position": [
+            0.0,
+            965.0,
+            0.0
+        ]
+    },
+    "elements": [
+        {
+            "ID": -63268,
+            "typeID": 1,
+            "name": "DoNothing",
+            "value": 0,
+            "nextTID": -63082,
+            "nextFID": 0,
+            "position": [
+                -66.5,
+                818.0004272460938,
+                0.0
+            ]
+        },
+        {
+            "ID": -63082,
+            "typeID": 1,
+            "name": "DoNothing",
+            "value": 0,
+            "nextTID": -62962,
+            "nextFID": 0,
+            "position": [
+                -68.5,
+                685.0004272460938,
+                0.0
+            ]
+        },
+        {
+            "ID": -62962,
+            "typeID": 1,
+            "name": "DoNothing",
+            "value": 0,
+            "nextTID": 0,
+            "nextFID": 0,
+            "position": [
+                -83.5,
+                557.0004272460938,
+                0.0
+            ]
+        }
+    ]
+}

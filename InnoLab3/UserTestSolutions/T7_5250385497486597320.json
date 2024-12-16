@@ -1,0 +1,58 @@
+{
+    "ID": 5250385497486597320,
+    "TreeName": "T7",
+    "Start": {
+        "ID": -62558,
+        "typeID": 5,
+        "name": "T7 Start",
+        "value": 0,
+        "nextTID": -67690,
+        "nextFID": 0,
+        "position": [
+            0.0,
+            965.0,
+            0.0
+        ]
+    },
+    "elements": [
+        {
+            "ID": -67690,
+            "typeID": 1,
+            "name": "MoveUp",
+            "value": 11,
+            "nextTID": -67502,
+            "nextFID": 0,
+            "position": [
+                -12.5,
+                811.0000610351563,
+                0.0
+            ]
+        },
+        {
+            "ID": -67502,
+            "typeID": 1,
+            "name": "MoveRight",
+            "value": 14,
+            "nextTID": -67380,
+            "nextFID": 0,
+            "position": [
+                -17.5,
+                571.0000610351563,
+                0.0
+            ]
+        },
+        {
+            "ID": -67380,
+            "typeID": 1,
+            "name": "CollectGarbage",
+            "value": 1,
+            "nextTID": 0,
+            "nextFID": 0,
+            "position": [
+                -25.5,
+                333.00042724609377,
+                0.0
+            ]
+        }
+    ]
+}

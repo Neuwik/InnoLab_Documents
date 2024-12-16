@@ -1,0 +1,97 @@
+{
+    "ID": 5250385494876591687,
+    "TreeName": "T4",
+    "Start": {
+        "ID": -62438,
+        "typeID": 5,
+        "name": "T4 Start",
+        "value": 0,
+        "nextTID": -65318,
+        "nextFID": 0,
+        "position": [
+            0.0,
+            965.0,
+            0.0
+        ]
+    },
+    "elements": [
+        {
+            "ID": -65318,
+            "typeID": 3,
+            "name": "For 0 < 3",
+            "value": 3,
+            "nextTID": -64520,
+            "nextFID": -65132,
+            "position": [
+                -10.5,
+                830.0001220703125,
+                0.0
+            ]
+        },
+        {
+            "ID": -65132,
+            "typeID": 1,
+            "name": "DoNothing",
+            "value": 0,
+            "nextTID": -64946,
+            "nextFID": 0,
+            "position": [
+                138.5,
+                644.0001220703125,
+                0.0
+            ]
+        },
+        {
+            "ID": -64946,
+            "typeID": 2,
+            "name": "SomeCondition",
+            "value": 0,
+            "nextTID": -64760,
+            "nextFID": 0,
+            "position": [
+                -39.5,
+                466.0001220703125,
+                0.0
+            ]
+        },
+        {
+            "ID": -64760,
+            "typeID": 1,
+            "name": "DoNothing",
+            "value": 0,
+            "nextTID": -64640,
+            "nextFID": 0,
+            "position": [
+                -161.5,
+                289.0001220703125,
+                0.0
+            ]
+        },
+        {
+            "ID": -64640,
+            "typeID": 1,
+            "name": "DoNothing",
+            "value": 0,
+            "nextTID": 0,
+            "nextFID": 0,
+            "position": [
+                45.5,
+                276.0001220703125,
+                0.0
+            ]
+        },
+        {
+            "ID": -64520,
+            "typeID": 1,
+            "name": "DoNothing",
+            "value": 0,
+            "nextTID": 0,
+            "nextFID": 0,
+            "position": [
+                -159.5,
+                651.0001220703125,
+                0.0
+            ]
+        }
+    ]
+}
