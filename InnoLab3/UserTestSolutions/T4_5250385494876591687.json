@@ -2,11 +2,11 @@
     "ID": 5250385494876591687,
     "TreeName": "T4",
     "Start": {
-        "ID": -62438,
+        "ID": -931832,
         "typeID": 5,
         "name": "T4 Start",
         "value": 0,
-        "nextTID": -65318,
+        "nextTID": -934752,
         "nextFID": 0,
         "position": [
             0.0,
@@ -16,12 +16,12 @@
     },
     "elements": [
         {
-            "ID": -65318,
+            "ID": -934752,
             "typeID": 3,
             "name": "For 0 < 3",
             "value": 3,
-            "nextTID": -64520,
-            "nextFID": -65132,
+            "nextTID": -933954,
+            "nextFID": -934566,
             "position": [
                 -10.5,
                 830.0001220703125,
@@ -29,11 +29,11 @@
             ]
         },
         {
-            "ID": -65132,
+            "ID": -934566,
             "typeID": 1,
-            "name": "DoNothing",
-            "value": 0,
-            "nextTID": -64946,
+            "name": "CollectGarbage",
+            "value": 1,
+            "nextTID": -934380,
             "nextFID": 0,
             "position": [
                 138.5,
@@ -42,11 +42,11 @@
             ]
         },
         {
-            "ID": -64946,
+            "ID": -934380,
             "typeID": 2,
-            "name": "SomeCondition",
-            "value": 0,
-            "nextTID": -64760,
+            "name": "IsUpGarbage",
+            "value": 21,
+            "nextTID": -934194,
             "nextFID": 0,
             "position": [
                 -39.5,
@@ -55,11 +55,11 @@
             ]
         },
         {
-            "ID": -64760,
+            "ID": -934194,
             "typeID": 1,
-            "name": "DoNothing",
-            "value": 0,
-            "nextTID": -64640,
+            "name": "MoveUp",
+            "value": 11,
+            "nextTID": -934074,
             "nextFID": 0,
             "position": [
                 -161.5,
@@ -68,11 +68,11 @@
             ]
         },
         {
-            "ID": -64640,
+            "ID": -934074,
             "typeID": 1,
-            "name": "DoNothing",
-            "value": 0,
-            "nextTID": 0,
+            "name": "CollectGarbage",
+            "value": 1,
+            "nextTID": -934380,
             "nextFID": 0,
             "position": [
                 45.5,
@@ -81,11 +81,11 @@
             ]
         },
         {
-            "ID": -64520,
+            "ID": -933954,
             "typeID": 1,
-            "name": "DoNothing",
-            "value": 0,
-            "nextTID": 0,
+            "name": "MoveRight",
+            "value": 14,
+            "nextTID": -934752,
             "nextFID": 0,
             "position": [
                 -159.5,
