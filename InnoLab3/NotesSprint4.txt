@@ -1,4 +1,4 @@
-Sprint 5:
+Sprint 4:
 20	5*4	Als Entwickler möchte ich Playtester suchen und ihr Verhalten dokumentieren, um Aspekte zu erfassen, die den Testern möglicherweise nicht auffallen.
 12 	3*4	Als Entwickler möchte ich die Fragebögen auswerten, um das Feedback der Playtester zu verstehen und Verbesserungen am Spiel vorzunehmen.
 8	8*1	?

@@ -1,0 +1,8 @@
+Grid
+Load UML Bug
+Tutorial
+
++ Upper left Arrow Drawing bug
++ UML Element size/hitbox
++ Conditional arrow color/offset (offset for loops)
++ UML Tree Button Bug (only happened because UML Panel is inactive at start now)
